@@ -1,7 +1,7 @@
 Euler_rotate
 =====
 
-Acculumative Euler rotation simulation
+Accumulative Euler rotation simulation
 
 Usage
 -------
